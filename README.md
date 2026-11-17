@@ -123,5 +123,6 @@ Only run `umount` if a temporary FPS patch is actually mounted; if it reports th
 ## Credits and context
 
 Created from the tested Android KOTOR 1 60 FPS patch and the 120 FPS combat movement timer experiment. D3M0's PC KOTOR high-FPS patch work was used as a reference during investigation; the Android ARM64 changes are separate, architecture-specific modifications and should not be represented as an official D3M0 Android release.
+Credit to https://github.com/gnw-d3m0/D3M0s-KPatches. AI helped me take the code, and translate it to ARM64 for Android use.
 
 **Use at your own risk.** This is an unofficial modification and is not affiliated with Aspyr, Lucasfilm, Disney, or KernelSU.
