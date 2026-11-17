@@ -1,0 +1,6 @@
+id=kotor_fps_unified_manual
+name=KOTOR 1 FPS Switcher - 60 / 120 Combat Fix
+version=1.0
+versionCode=1
+author=Community patch packaging
+description=Manual Action cycle: stock 40 -> 60 -> 120 + combat fix -> stock. No automatic boot patch.
